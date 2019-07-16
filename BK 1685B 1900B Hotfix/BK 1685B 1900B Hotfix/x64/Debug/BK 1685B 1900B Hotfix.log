@@ -1,0 +1,6 @@
+﻿BK 1685B 1900B Hotfix.obj : error LNK2019: unresolved external symbol viOpenDefaultRM referenced in function main
+BK 1685B 1900B Hotfix.obj : error LNK2019: unresolved external symbol viOpen referenced in function main
+BK 1685B 1900B Hotfix.obj : error LNK2019: unresolved external symbol viClose referenced in function main
+BK 1685B 1900B Hotfix.obj : error LNK2019: unresolved external symbol viWrite referenced in function main
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\lib\msc\visa32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\pfabian\Documents\Github\BK-Precision-Internship-Summer-2019\BK 1685B 1900B Hotfix\x64\Debug\BK 1685B 1900B Hotfix.exe : fatal error LNK1120: 4 unresolved externals
