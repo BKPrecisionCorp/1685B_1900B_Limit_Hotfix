@@ -1,20 +1,11 @@
-# BK<Model> <Descriptor>
-These files are for the BK<Model> <Descriptor>
+# BK1685B Series and 1900B Series Switching DC Power Supplies
+These files are for the BK1685B Series and 1900B Series Switching DC Power Supplies
   
 ### Models
-Models:<List Models>
+Models: 1685B, 1687B, 1688B, 1900B, 1901B, 1902B
 
-
-### Documentation
-Manual: [Series Manual](<link here>)
-
-<IF SEPARATE> Series Programming Manual: [Series Programming Manual](<link here>)
-  
-Data Sheet: [Series Data Sheet](<link here>)
 
 ### File Descriptions
-<Describe Important Files>
-<File Name> is <Short Description>
-  - <Point 1>
-  - <Point 2>
-  - <Point 3>
+HotFix Project
+
+The hotfix folder holds the source code for an executable which resets the upper current and voltage limits of the mentioned power supplies
